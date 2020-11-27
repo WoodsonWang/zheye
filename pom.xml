@@ -12,5 +12,6 @@
     <modules>
         <module>zheye-content</module>
         <module>zheye-user</module>
+        <module>renren-fast</module>
     </modules>
 </project>

@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="zheye-user" />
         <module name="zheye-content" />
+        <module name="renren-fast" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="renren-fast" target="1.8" />
       <module name="zheye" target="1.5" />
       <module name="zheye-content" target="1.8" />
       <module name="zheye-user" target="1.8" />
@@ -18,6 +20,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="renren-fast" options="-parameters" />
       <module name="zheye-content" options="-parameters" />
       <module name="zheye-user" options="-parameters" />
     </option>
