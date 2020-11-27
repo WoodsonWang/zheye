@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zheye.iml" filepath="$PROJECT_DIR$/zheye.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zheye-content/zheye-content.iml" filepath="$PROJECT_DIR$/zheye-content/zheye-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zheye-user/zheye-user.iml" filepath="$PROJECT_DIR$/zheye-user/zheye-user.iml" />
+    </modules>
+  </component>
+</project>
